@@ -73,4 +73,7 @@ First time: Use small limits (2 conferences, 3 papers) to test
 Full run: Use 0 for both limits to get all data
 Results: Check results_dynamic.csv file for extracted emails
 
+important tip-remember one thing every time when you run the script results_dynamic.csv will delete previos records first .do you have to make copy of previous                      records before re-run the script.
+
+
 That's it! Your scraper will start working and show progress in the terminal.
